@@ -54,6 +54,7 @@ function ordenarPorNota(){
 ```
 
 **▶ Como executar**
+
 🔹 Opção 1 — Usando Node.js:
 
 Instale o Node (se ainda não tiver).
@@ -70,6 +71,7 @@ Pressione F12.
 Cole o código no console e execute.
 
 **🧠 Conceitos praticados**
+
 Arrays e Objetos
 Funções
 Métodos de array (map, filter, find, sort, reduce)
@@ -89,16 +91,18 @@ console.log("Média:", mediaDaTurma());
 ```
 
 **🛠 Tecnologias**
+
 JavaScript (ES6+)
 VS Code
-Node.js (opcional)
 
 **👨‍💻 Autor**
+
 João Paulo Gonçalves Santos Lobo
 Desenvolvedor Front-End Júnior | Estudante de ADS
 📧 jpaulolobo2509@gmail.com
 📍 Lauro de Freitas – BA
 
 **⭐ Contribuições**
+
 Sinta-se à vontade para sugerir melhorias ou abrir issues.
 Obrigado por visitar meu repositório! 🚀✨
