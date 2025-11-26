@@ -63,10 +63,6 @@ Salve o arquivo como alunos.js.
 
 Execute:
 
-bash
-
-Copiar código
-
 node alunos.js
 
 🔹 Opção 2 — Pelo navegador:
