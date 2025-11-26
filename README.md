@@ -58,16 +58,23 @@ function ordenarPorNota(){
 🔹 Opção 1 — Usando Node.js:
 
 Instale o Node (se ainda não tiver).
+
 Salve o arquivo como alunos.js.
+
 Execute:
+
 bash
+
 Copiar código
+
 node alunos.js
 
 🔹 Opção 2 — Pelo navegador:
 
 Abra o navegador.
+
 Pressione F12.
+
 Cole o código no console e execute.
 
 **🧠 Conceitos praticados**
